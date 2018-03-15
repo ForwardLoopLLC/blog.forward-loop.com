@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false 
+
+# Setup
+title:            
+tagline:          'Forward Loop Blog'
+description:      ''
+url:              http://forward-loop.com
+baseurl:          /
+
+author:
+  name:           'Forward Loop'
+
+paginate:         5

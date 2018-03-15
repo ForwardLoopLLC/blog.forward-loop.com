@@ -1,0 +1,31 @@
+.sidebar-logo{
+  background-color: white;
+  border: 5;
+  border-color: red;
+  min-width: 100%;
+  min-height: 100%;
+  vertical-align: top;
+  display: inline-block;
+  border-style: solid;
+  border-color: red;
+  border-width: 0px 0px 2px 0px;
+}
+
+@media (min-width: 48em) {
+.sidebar-logo{
+  background-color: white;
+  border: 5;
+  border-color: red;
+  min-width: 100%;
+  min-height: 100%;
+  vertical-align: top;
+  display: inline-block;
+  border-width: 0px 0px 0px 0px;
+}
+}
+
+.copyright{
+  text-align: center;
+  font-size: 16px;
+  vertical-align: bottom;
+}
