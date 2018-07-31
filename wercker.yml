@@ -13,6 +13,10 @@ build:
             code: |
                 gem install jekyll bundler
         - script:
+            name: install jekyll dependencies
+            code: |
+                bundle-install
+        - script:
             name: build documentation 
             code: |
                bundle exec jekyll build --destination ../sync/ 
