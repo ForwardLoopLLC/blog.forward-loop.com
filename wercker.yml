@@ -25,6 +25,5 @@ build:
             code: |
                 aws configure set aws_access_key_id $AWS_KEY_ID && \
                 aws configure set aws_secret_access_key $AWS_SECRET_KEY && \
-                ls -R ../sync/ 
-                #&& \
-                #aws s3 sync --delete ../sync/ s3://blog.forward-loop.com
+                ls -R ../sync/ && \
+                aws s3 sync --delete ../sync/ s3://blog.forward-loop.com
