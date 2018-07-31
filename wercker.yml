@@ -15,7 +15,7 @@ build:
         - script:
             name: build documentation 
             code: |
-               jekyll build --destination ../sync/ 
+               bundle exec jekyll build --destination ../sync/ 
                #        - script:
                #            name: push documentation
                #            code: |
