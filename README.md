@@ -1,3 +1,3 @@
 # Forward Loop Blog
 
-`Vist the blog to learn more about Forward Loop <https://blog.forward-loop.com>`_
+[Visit the blog to learn more about Forward Loop](https://blog.forward-loop.com>)
