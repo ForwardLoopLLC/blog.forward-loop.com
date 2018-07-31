@@ -10,6 +10,6 @@ In total, we ran six sensors across three different machines of two different pr
 
 ![A pair of sensors on one machine](/public/IMG_20180227_155023.jpg)
 
-The prototypes tested all of the workhorse hardware that senses, monitors, processes, stores, and communicates information about the moving machines. While they may not be much to look at now, each sensor successfully processed movement data 200 times per second for the entire test period. This first batch of sensors passed the hardware and software tests with flying colors.
+The prototypes tested all of the workhorse hardware that senses, monitors, processes, stores, and communicates information about the moving machines. While they may not be much to look at now, each sensor successfully processed movement data 200 times per second for the entire test period. This first batch of sensors passed the hardware and software tests with flying colors..
 
 We are now working to package the hardware so its look and feel matches what it can do.

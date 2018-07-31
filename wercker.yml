@@ -1,0 +1,25 @@
+box:
+    id: python:3.6
+
+build:
+    steps:
+        - install-packages:
+            packages: ruby ruby-dev build-essential 
+        - pip-install:
+            requirements_file: ""
+            packages_list: "awscli"
+        - script:
+            name: install jekyll
+            code: |
+                gem install jekyll bundler
+        - script:
+            name: build documentation 
+            code: |
+               jekyll build --destination ../sync/ 
+               #        - script:
+               #            name: push documentation
+               #            code: |
+               #                aws configure set aws_access_key_id $AWS_KEY_ID && \
+               #                aws configure set aws_secret_access_key $AWS_SECRET_KEY && \
+               #                ls -R ../sync/ && \
+               #                aws s3 sync --delete ../sync/ s3://forward-loop.com

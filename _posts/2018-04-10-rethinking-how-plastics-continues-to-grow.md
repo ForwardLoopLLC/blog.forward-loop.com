@@ -1,0 +1,15 @@
+---
+title: Rethinking How Plastics Manufacturing Continues to Grow
+---
+
+It’s common knowledge that when the plastic manufacturing industry grows, it does so by installing more production machinery and adding new factories. The industry’s biggest media outlets like Plastics News showcase this growth by regularly covering manufacturers that install new machines, open new factories, and acquisitions dedicated to adding more production capacity. Thus far, this tried-and-true method has paid dividends. However, as the cost of doing business in plastics rises, the way the industry continues to grow will have to change. 
+
+Most of the industry has already acknowledged this truth and taken a step in the right direction by adopting robotic automation. As far as other new technology goes, we at Forward Loop realize that there is a scarcity of young talent, valuable use cases, and new software/hardware products to help manufacturers scale more vertically. So, what options exist for the industry to continue its growth?
+
+To keep plastic manufacturing sustainable and growing, we see a few different paths the industry could take to lure new technology talent and produce new products to fulfill vertical scaling needs. The first is led by outsiders with the guidance of the industry, and the second is led by the industry to equip themselves with new tools:
+
+(1) Plastics industry incentivizes young, hardware and software talent into the industry by acquiring smaller, specialized technology companies. Right now, most tech startups do not look to traditional industry because they don’t want to build traditional businesses. Small technology acquisitions in plastics would provide a lure for more outside startup talent to develop new products, and a way for the industry to accelerate its own technological development.
+
+(2) Plastics industry uses better in-house hardware and software tools to prototype and develop their own products faster. With this, plastics manufacturers can create in-house systems that optimize their own unique processes. This option hurdles the problem of outsiders not fully understanding what use-cases are valuable and what opportunities are worthy of pursuit. Putting such developer tools in the hands of manufacturers is probably the best option for new technology to resonate with the industry.
+
+In the end, both approaches would require a change to adjust to the new pressure of scaling output more vertically. This is either a financial or organizational leap for plastics manufacturers. Financially, tech acquisitions can be riskier than the industry’s current tolerances, and organizationally, using new tools to build products in-house assumes hiring and running costly information technology departments. At Forward Loop, we’re betting on a future where manufacturers use and build more in-house technology by providing an easier way to prototype and develop sensing systems.
